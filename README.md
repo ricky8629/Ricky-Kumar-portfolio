@@ -5,7 +5,8 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ### Saint louis University (School of social work)
 **Role** : Web Developer (currenlty concentrated Sharepoint)
- **Responsibilities**:
+
+**Responsibilities**:
 
 - Developing and enhancing features for the existing website to improve functionality and user experience.
 - Launching new features to help faculty and students access resources more efficiently.
@@ -15,7 +16,8 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ### Sangfroid Services and technologies
 **Role** : Technical solution lead
- **Responsibilities**:
+
+**Responsibilities**:
 
 - Contributed to IT projects focused on implementing and enhancing key security applications and tools, strengthening the overall security infrastructure.  
 - Provided cross-functional IT support, collaborating with teams beyond the IT Security department to improve overall operational efficiency.  
@@ -24,14 +26,16 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ### Peblox
 **Role** : cybersecurity intern
-- **Responsibilities**:
+
+**Responsibilities**:
 
 - Led an immersive professional development experience during the internship, utilizing hands-on learning opportunities to enhance skills and contribute effectively to projects.  
 - Strengthened cybersecurity expertise through practical exposure, gaining proficiency in firewalls, IDS/IPS, SIEM, and penetration testing frameworks.
 
 ### Gurugram police department
 **Role** : cybersecurity intern
- **Responsibilities**:
+
+**Responsibilities**:
 
 - Gained hands-on experience in cybercrime investigations, focusing on threats such as skimming, phishing, tampering, and ransomware.  
 - Contributed to cybersecurity awareness initiatives to help educate and protect the public.  
@@ -39,13 +43,13 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ## Education
 
-- **Master of science in cybersecurity**
+**Master of science in cybersecurity**
 Saint louis university, 2023 - 2025 (Expected Graduation May 2025)
 
-- **Bachelors of technology in Computer science**
+**Bachelors of technology in Computer science**
 GuruGobind Singh Indraprastha university, 2018 - 2022 (3.28 GPA)
 
-- ## Skills
+## Skills
 
 - **Programming Language** : Python, javascript, java, C++
 - **Cybersecurity** : Vulnerability assessment, Network security, Cryptography, pentesting, OSWAP 10, Digital forencics, web security, Intrusin detection
