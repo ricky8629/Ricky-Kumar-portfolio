@@ -52,7 +52,7 @@ GuruGobind Singh Indraprastha university, 2018 - 2022 (3.28 GPA)
 ## Skills
 
 - **Programming Language** : Python, javascript, java, C++
-- **Cybersecurity** : Vulnerability assessment, Network security, Cryptography, pentesting, OSWAP 10, Digital forencics, web security, Intrusin detection
+- **Cybersecurity** : Vulnerability assessment, Network security, Cryptography, pentesting, OSWAP 10, Digital forencics, web security, Intrusion detection
 - **Certifications** : CompTIA security+, CompTIA CySA+, CSAP
 - **Tools & Technologies** : Flipper zero, Rasberry pi, Burpsuite, Zap, Wireshark
 
