@@ -44,9 +44,11 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 ## Education
 
 **Master of science in cybersecurity**
+
 Saint louis university, 2023 - 2025 (Expected Graduation May 2025)
 
 **Bachelors of technology in Computer science**
+
 GuruGobind Singh Indraprastha university, 2018 - 2022 (3.28 GPA)
 
 ## Skills
