@@ -56,6 +56,10 @@ GuruGobind Singh Indraprastha university, 2018 - 2022 (3.28 GPA)
 - **Certifications** : CompTIA security+, CompTIA CySA+, CSAP
 - **Tools & Technologies** : Flipper zero, Rasberry pi, Burpsuite, Zap, Wireshark
 
+## Medium
+
+- https://medium.com/@kricky2999
+
 ## Personal Interest
 
 In addition to my interest in technology I am passionate about Reading books, meditation and workout.
