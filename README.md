@@ -5,7 +5,7 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ### Saint louis University (School of social work)
 **Role** : Web Developer (currenlty concentrated Sharepoint)
-- **Responsibilities**:
+ **Responsibilities**:
 
 - Developing and enhancing features for the existing website to improve functionality and user experience.
 - Launching new features to help faculty and students access resources more efficiently.
@@ -15,7 +15,7 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ### Sangfroid Services and technologies
 **Role** : Technical solution lead
-- **Responsibilities**:
+ **Responsibilities**:
 
 - Contributed to IT projects focused on implementing and enhancing key security applications and tools, strengthening the overall security infrastructure.  
 - Provided cross-functional IT support, collaborating with teams beyond the IT Security department to improve overall operational efficiency.  
@@ -31,7 +31,7 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 
 ### Gurugram police department
 **Role** : cybersecurity intern
-- **Responsibilities**:
+ **Responsibilities**:
 
 - Gained hands-on experience in cybercrime investigations, focusing on threats such as skimming, phishing, tampering, and ransomware.  
 - Contributed to cybersecurity awareness initiatives to help educate and protect the public.  
