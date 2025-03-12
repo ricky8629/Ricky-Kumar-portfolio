@@ -4,8 +4,7 @@ Welcome to My Github Portfolio, Hi, My name is Ricky Kumar.I am passionate Cyber
 ## Work Experience
 
 ### Saint louis University (School of social work)
-**Role** : Web Developer (currenlty concentrated Sharepoint)
-
+**Role** : Information Technology support analyst
 **Responsibilities**:
 
 - Developing and enhancing features for the existing website to improve functionality and user experience.
